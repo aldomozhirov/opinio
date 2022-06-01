@@ -1,0 +1,42 @@
+{
+  "name": "opinio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@supercharge/strings": "^1.25.0",
+    "core-js": "^3.19.3",
+    "crypto-random-string": "^4.0.0",
+    "express": "^4.17.2",
+    "fetch": "^1.1.0",
+    "moment": "^2.29.1",
+    "nanoid": "^3.2.0",
+    "node-fetch": "^3.1.0",
+    "node-font2base64": "^0.7.1",
+    "node-html-to-image": "^3.2.0",
+    "nuxt": "^2.15.8",
+    "nuxt-property-decorator": "^2.9.1",
+    "randomstring": "^1.2.2",
+    "telegraf": "^4.5.2",
+    "uuid": "^8.3.2",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify": "^2.6.1",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxt/typescript-runtime": "^2.1.0",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "@types/node-fetch": "^3.0.3",
+    "@types/qrcode": "^1.4.2",
+    "@types/uuid": "^8.3.4"
+  }
+}
